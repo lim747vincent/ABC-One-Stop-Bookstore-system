@@ -56,4 +56,4 @@ The ABC One Stop Bookstore is an online platform designed to provide book enthus
 
 Developed by **3 Members** on **2022**
 
-If you appreciate our work, consider adding this project to your favorites on GitHub.
+If you appreciate our work, consider adding this project to your favorites on GitHub. DM me if you’d like to collaborate with us.
