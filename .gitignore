@@ -1,0 +1,19 @@
+# C++ compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# Build directories
+/build/
+/CMakeFiles/
+/Debug/
+/Release/
+
+# IDE-specific files
+.vscode/
+.idea/
+.vs/
