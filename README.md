@@ -4,7 +4,7 @@
 
 ## Overview
 
-The ABC One Stop Bookstore is an online platform designed to provide book enthusiasts with a convenient way to browse, purchase, and gift books. Users can search for books by title, author, category, publisher, price, and rating. While guests can explore available books, registration is required for purchasing and borrowing services. The system offers three main features: browsing and purchasing books from individual bookstores, comparing selections across multiple bookstore branches, and an extra feature for gifting books. The goal of the system is to enhance the book-shopping experience with an intuitive and user-friendly interface.
+The ABC One Stop Bookstore is an c++ system designed to provide book enthusiasts with a convenient way to browse, purchase, and gift books. Users can search for books by title, author, category, publisher, price, and rating. While guests can explore available books, registration is required for purchasing and borrowing services. The system offers three main features: browsing and purchasing books from individual bookstores, comparing selections across multiple bookstore branches, and an extra feature for gifting books. The goal of the system is to enhance the book-shopping experience with an intuitive and user-friendly interface.
 
 
 ## System Features
